@@ -1,6 +1,6 @@
 
 ## Student Graging System
-students = ["Obinna", "Adaeze", "Emeka", "Chibuzor", "Chinaza","Chikamso", "Chinenye", "Amaka", "Chika", "Ndidi","Ndubuisi", "Nzubechukwu", "Obiora", "Chinedu", "Uchenna"]
+students = ["Obinna", "Adaeze", "Ebuka", "Chibuzor", "Chinaza","Chikamso", "Chinenye", "Amaka", "Chika", "Ndidi","Ndubuisi", "Nzubechukwu", "Obiora", "Chinedu", "Uchenna"]
 scores = [78, 87, 65, 57, 89, 97, 92, 83, 52, 89, 87, 90, 47, 71, 74]
 
 total = 0
