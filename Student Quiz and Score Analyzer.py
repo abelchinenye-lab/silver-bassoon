@@ -28,7 +28,6 @@ while True:
          print("correct answer:", correct_answer )
  wrong_answers.append(question)
 
-
 ## Calculate the percentage        
  percentage = (score / len(quiz)) * 100
 
